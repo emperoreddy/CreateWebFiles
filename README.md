@@ -15,7 +15,7 @@ Create a fast template for your simple web project including:
 
 ## Usage
 
-To use it, follow these 2 steps:
+To use it, follow these steps:
 
 - choose your desired name for the folder
 - select a path to where the folder and files should be created
@@ -23,11 +23,16 @@ To use it, follow these 2 steps:
 
 ## Installation
 
+Clone it with:
+```
+git clone "https://github.com/emperoreddy/CreateWebFiles"
+```
+
 Go to the script's path
 ```
 cd C:\script\path
 ```
-Run the script
+Run the script with
 ```python
 py main.py
 ```

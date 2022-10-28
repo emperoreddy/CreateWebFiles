@@ -36,4 +36,4 @@ or
 python3 -m main.py
 ```
 
-### Hope you'll enjoy it!
+## Hope you'll enjoy it!
